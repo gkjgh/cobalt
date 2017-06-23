@@ -8,7 +8,8 @@ The code is generated automaticly by [Vivify](http://bytefluent.com/vivify/).
 2) Use the command ":colorscheme cobalt" for temporarily changing.
 
 ## Screenshot
+GUI
+![GUI](https://raw.githubusercontent.com/gkjgh/cobalt/master/screenshots/cobalt-gui.png)
 
-[GUI](https://drive.google.com/file/d/0B2Pn3tNtsOH4alBGaVpFX0x5UDA/view?usp=sharing)
-
-[XTerm](https://drive.google.com/file/d/0B2Pn3tNtsOH4U0IyQjZWS3hhVjQ/view?usp=sharing)
+XTerm
+![GUI](https://raw.githubusercontent.com/gkjgh/cobalt/master/screenshots/cobalt-xterm.png)
