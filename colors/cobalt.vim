@@ -93,7 +93,7 @@ hi String guifg=#3ad900 guibg=NONE guisp=NONE gui=NONE ctermfg=76 ctermbg=NONE c
 hi PMenuThumb guifg=NONE guibg=#939aa8 guisp=#939aa8 gui=NONE ctermfg=NONE ctermbg=103 cterm=NONE
 hi MatchParen guifg=#ffffff guibg=#d70061 guisp=#d70061 gui=bold ctermfg=15 ctermbg=161 cterm=bold
 hi Repeat guifg=#ff9d00 guibg=NONE guisp=NONE gui=bold ctermfg=214 ctermbg=NONE cterm=bold
-hi Directory guifg=#2c355e guibg=NONE guisp=NONE gui=bold ctermfg=17 ctermbg=NONE cterm=bold
+hi Directory guifg=#00bfff guibg=NONE guisp=NONE gui=NONE ctermfg=39 ctermbg=NONE cterm=NONE
 hi Structure guifg=#ff9d00 guibg=NONE guisp=NONE gui=bold ctermfg=214 ctermbg=NONE cterm=bold
 hi Macro guifg=#ffdd00 guibg=NONE guisp=NONE gui=NONE ctermfg=220 ctermbg=NONE cterm=NONE
 hi DiffAdd guifg=NONE guibg=#3a3a3a guisp=#3a3a3a gui=NONE ctermfg=NONE ctermbg=237 cterm=NONE
